@@ -7,6 +7,12 @@ You may open an issue in this repository with any questions for the PATCG chairs
 
 Any repository may be moved into this space at will by its author and will be administrated under [the rules established by the PATCG charter](https://patcg.github.io/charter.html#individual-draft-management) for this space.
 
+## Intellectual Property Rights Protections 
+
+Any repository in this GitHub Org should be considered administrated by the [PATCG Charter](https://patcg.github.io/charter.html), the rules of the W3C, and the [W3C Community Contributor License Agreement (CLA)](https://www.w3.org/community/about/agreements/cla/). 
+
+In addition, we will add mechanisms for enforcement of the CLA using specific W3C tools and when those tools are active on a repository the author will be alerted with a message from one of the PATCG chairs. 
+
 ## Any Document In This Space May Not Have Been Reviewed By PATCG and Is Not Currently a Work of PATCG
 
 No repository in this space is formally approved by PATCG. No repository in this space is guaranteed to move towards a standard in the PATCG/WG process.
