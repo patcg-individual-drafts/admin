@@ -13,6 +13,10 @@ Any repository in this GitHub Org should be considered administrated by the [PAT
 
 In addition, we will add mechanisms for enforcement of the CLA using specific W3C tools and when those tools are active on a repository the author will be alerted with a message from one of the PATCG chairs. 
 
+### Participation
+
+In order to participate, you need to either be a member of the W3C or the PATCG group. Joining PATCG is free but requried to make sure that all participants have acknoledged the CLA. 
+
 ## Any Document In This Space May Not Have Been Reviewed By PATCG and Is Not Currently a Work of PATCG
 
 No repository in this space is formally approved by PATCG. No repository in this space is guaranteed to move towards a standard in the PATCG/WG process.
