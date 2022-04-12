@@ -15,7 +15,7 @@ In addition, we will add mechanisms for enforcement of the CLA using specific W3
 
 ### Participation
 
-In order to participate, you need to either be a member of the W3C or the PATCG group. Joining PATCG is free but requried to make sure that all participants have acknoledged the CLA. 
+In order to participate, you need to either be a member of the W3C or the PATCG group. Joining PATCG is free but required to make sure that all participants have acknowledged the CLA. 
 
 ## Any Document In This Space May Not Have Been Reviewed By PATCG and Is Not Currently a Work of PATCG
 
